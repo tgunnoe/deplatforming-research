@@ -1,0 +1,158 @@
+
+
+* Hosts
+
+** Orange
+| Location  | Types           |
+|-----------+-----------------|
+| (Iceland) | Dedicated/Cloud |
+
+
+*** Advantages
+**** Deplatforming -- Probably unlikely, examples:
+***** Used by lots of tor exit nodes
+***** Says no only to "racist or pro-paedophilia content"
+***** Otherwise, ignores complaints
+**** Security -- DDOS Protection at several levels
+**** Privacy -- Accepts Bitcoin
+**** Privacy -- Minimal KYC
+**** Flexibility -- Cloud and Dedicated options
+
+*** Disadvantages
+**** Location -- only one: Iceland
+**** Location -- Isolated Europe, slower connections from USA
+
+** Flokinet
+| Location                  | Types                |
+|---------------------------+----------------------|
+| (Romania)/Iceland/Finland | Dedicated/Colocation |
+
+*** Advantages
+**** Deplatforming -- Unlikely
+**** Security -- DDOS Protection at several levels
+**** Privacy -- Accepts Bitcoin
+**** Privacy -- Minimal KYC
+**** Privacy -- Advertises free speech
+**** Cloud/Dedicated/Colocation options
+
+*** Disadvantages
+**** Location -- Europe, slower connections from USA
+
+
+** Epik (Sibyl hosting)
+| Location                            | Types                          |
+|-------------------------------------+--------------------------------|
+| (UK)/Netherlands/Switzerland/Norway | VPS/Dedicated/Colocation/Cloud |
+
+
+*** Advantages
+**** Deplatforming -- Unlikely
+**** Security -- DDOS Protection offered at several levels
+**** Security -- Says "DMCA Ignored" for most options
+**** Security -- Says "Physical security, Norway bunker"
+**** Privacy -- Accepts Bitcoin
+**** Privacy -- Minimal KYC
+**** Privacy -- Advertises free speech
+**** Privacy -- Well-known recipient of censored migrants
+**** Cloud/Dedicated/Colocation options
+
+*** Disadvantages
+**** Location -- UK based company,  Dedicated services in UK
+**** Location -- VPSs in Norway, Netherlands and Switzerland
+**** Company hosting looks new and is still being setup
+
+*** Other features
+Epik has an Openstack Based cloud computing solution using KVM, Linux's
+Kernel-based Virtual Machine. "Our Norway Datacenter runs inside a bunker with
+maximum physical security so you can be sure your data is safe."
+"
+
+
+** Bahnhof
+| Location | Types                |
+|----------+----------------------|
+| (Sweden) | VPS/Cloud/Colocation |
+
+*** Advantages
+**** Deplatforming -- Unlikely, former Wikileaks host
+"With all infrastructure in Sweden, our cloud services run under the
+country's strong free speech and data protection laws. Your information is
+protected against foreign surveillance."
+**** Flexible Cloud/VPS plans, much like Amazon
+
+*** Disadvantages
+**** Location -- Sweden, Europe
+
+** Njalla
+| Location | Types |
+|----------+-------|
+| (Sweden) | VPS   |
+
+*** Advantages
+**** Domain provider as well as hosting
+**** Deplatforming -- Unlikely, they're Piratebay and Piratbyran guys
+**** Privacy -- Accepts Cryptocurrency
+**** Privacy -- Holds domain in between you and registrar
+
+*** Disadvantages
+**** Location -- VPSs in Sweden, Europep
+**** Only 3 VPS choices, no cloud or dedicated
+**** Not a lot of control over the machine setup it appears
+**** Company hosting looks new and is still being setup
+
+
+*** About
+"When you buy a domain in our system, we're actually purchasing it for ourselves.
+We will be the actual owners of the domain, it's not an ownership by proxy as
+found with all other providers. However, you will still have the full control
+over the domain name. You can either use our information, our nameservers or you
+can go with your custom data.
+...
+The idea is to make sure that we minimise your visibility to the public. We're
+not going to give your customer data out easily.
+"
+
+** Dreamhost
+| Location | Types               |
+|----------+---------------------|
+| (USA)    | VPS/Cloud/Dedicated |
+
+*** Advantages
+**** Amazon-like services
+***** DreamCompute -- cloud, scalable infra
+***** DreamObjects -- S3-type redundant object storage
+**** Deplatforming -- Unlikely, example content hosted:
+***** American Nazi Party
+***** Pornography
+***** Offensive material like Prophet Muhammed cartoons
+**** Location -- USA based
+**** KVM Virtualization
+**** Lots of services to choose from
+**** Domain provider and hosting
+**** OS-Agnostic, flexibility for setups
+
+*** Disadvantages
+**** Doesn't advertise "free speech" necessarily
+**** only has normal terms for "illegal and copyrighted content"
+
+
+** Vanwa.tech
+| Location                | Types                          |
+|-------------------------+--------------------------------|
+| (USA, Washington State) | VPS/Cloud/Dedicated/Colocation |
+
+*** Advantages
+**** Deplatforming -- Probably Unlikely:
+***** 8kun/8chan host
+**** Deplatforming -- Advertises "free speech"
+**** Security -- DDOS Protection for servers
+**** KVM Virtualization
+**** Unmetered Bandwidth @ 1GB/s
+**** Domain provider and hosting
+**** Provides APIs for IPFS actions
+
+*** Disadvantages
+**** Says "cloud" but resources don't appear adjustable
+**** Hosting options arent that great
+
+* Distributed/Decentralized solutions
